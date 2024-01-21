@@ -1,0 +1,277 @@
+[
+    {
+        "name": "United States of America",
+        "gdp": 17709,
+        "growth": -3.49
+    },
+    {
+        "name": "China",
+        "gdp": 11785,
+        "growth": 2.3
+    },
+    {
+        "name": "Germany",
+        "gdp": 3751,
+        "growth": -4.9
+    },
+    {
+        "name": "France",
+        "gdp": 2731,
+        "growth": -8.11
+    },
+    {
+        "name": "India",
+        "gdp": 2707,
+        "growth": -7.96
+    },
+    {
+        "name": "Brazil",
+        "gdp": 2268,
+        "growth": -4.06
+    },
+    {
+        "name": "Italy",
+        "gdp": 1959,
+        "growth": -8.87
+    },
+    {
+        "name": "Canada",
+        "gdp": 1848,
+        "growth": -5.4
+    },
+    {
+        "name": "Australia",
+        "gdp": 1446,
+        "growth": -0.28
+    },
+    {
+        "name": "Spain",
+        "gdp": 1402,
+        "growth": -10.84
+    },
+    {
+        "name": "Turkey",
+        "gdp": 1284,
+        "growth": 1.76
+    },
+    {
+        "name": "Mexico",
+        "gdp": 1202,
+        "growth": -8.24
+    },
+    {
+        "name": "Indonesia",
+        "gdp": 1180,
+        "growth": -2.07
+    },
+    {
+        "name": "Netherlands",
+        "gdp": 926,
+        "growth": -3.74
+    },
+    {
+        "name": "Switzerland",
+        "gdp": 692,
+        "growth": -2.87
+    },
+    {
+        "name": "Saudi Arabia",
+        "gdp": 675,
+        "growth": -4.11
+    },
+    {
+        "name": "Poland",
+        "gdp": 643,
+        "growth": -2.7
+    },
+    {
+        "name": "Sweden",
+        "gdp": 580,
+        "growth": -2.82
+    },
+    {
+        "name": "Belgium",
+        "gdp": 513,
+        "growth": -6.28
+    },
+    {
+        "name": "Norway",
+        "gdp": 489,
+        "growth": -0.76
+    },
+    {
+        "name": "Nigeria",
+        "gdp": 469,
+        "growth": -1.79
+    },
+    {
+        "name": "Thailand",
+        "gdp": 425,
+        "growth": -6.09
+    },
+    {
+        "name": "Austria",
+        "gdp": 419,
+        "growth": -6.59
+    },
+    {
+        "name": "Ireland",
+        "gdp": 406,
+        "growth": 3.42
+    },
+    {
+        "name": "South Africa",
+        "gdp": 400,
+        "growth": -6.96
+    },
+    {
+        "name": "Argentina",
+        "gdp": 394,
+        "growth": -9.91
+    },
+    {
+        "name": "Malaysia",
+        "gdp": 377,
+        "growth": -5.59
+    },
+    {
+        "name": "Denmark",
+        "gdp": 373,
+        "growth": -2.73
+    },
+    {
+        "name": "Colombia",
+        "gdp": 368,
+        "growth": -6.85
+    },
+    {
+        "name": "Philippines",
+        "gdp": 327,
+        "growth": -9.57
+    },
+    {
+        "name": "Singapore",
+        "gdp": 320,
+        "growth": -5.39
+    },
+    {
+        "name": "Egypt",
+        "gdp": 313,
+        "growth": 3.57
+    },
+    {
+        "name": "Israel",
+        "gdp": 312,
+        "growth": -2.44
+    },
+    {
+        "name": "Chile",
+        "gdp": 269,
+        "growth": -5.77
+    },
+    {
+        "name": "Pakistan",
+        "gdp": 258,
+        "growth": 0.53
+    },
+    {
+        "name": "Portugal",
+        "gdp": 235,
+        "growth": -7.56
+    },
+    {
+        "name": "Greece",
+        "gdp": 231,
+        "growth": -8.25
+    },
+    {
+        "name": "Romania",
+        "gdp": 225,
+        "growth": -3.86
+    },
+    {
+        "name": "Bangladesh",
+        "gdp": 215,
+        "growth": 2.38
+    },
+    {
+        "name": "Kazakhstan",
+        "gdp": 208,
+        "growth": -2.6
+    },
+    {
+        "name": "Viet Nam",
+        "gdp": 207,
+        "growth": 2.91
+    },
+    {
+        "name": "Iraq",
+        "gdp": 198,
+        "growth": -10.37
+    },
+    {
+        "name": "Algeria",
+        "gdp": 191,
+        "growth": -5.48
+    },
+    {
+        "name": "Peru",
+        "gdp": 187,
+        "growth": -11.15
+    },
+    {
+        "name": "Ukraine",
+        "gdp": 130,
+        "growth": -4.02
+    },
+    {
+        "name": "Morocco",
+        "gdp": 117,
+        "growth": -7.12
+    },
+    {
+        "name": "Sri Lanka",
+        "gdp": 84,
+        "growth": -3.57
+    },
+    {
+        "name": "Ecuador",
+        "gdp": 82,
+        "growth": -7.75
+    },
+    {
+        "name": "Ethiopia",
+        "gdp": 72,
+        "growth": 6.06
+    },
+    {
+        "name": "Kenya",
+        "gdp": 65,
+        "growth": -0.31
+    },
+    {
+        "name": "Belarus",
+        "gdp": 63,
+        "growth": -0.9
+    },
+    {
+        "name": "Ghana",
+        "gdp": 57,
+        "growth": 0.41
+    },
+    {
+        "name": "Tunisia",
+        "gdp": 47,
+        "growth": -8.6
+    },
+    {
+        "name": "Uganda",
+        "gdp": 44,
+        "growth": 2.86
+    },
+    {
+        "name": "Nepal",
+        "gdp": 24,
+        "growth": -2.09
+    }
+]
