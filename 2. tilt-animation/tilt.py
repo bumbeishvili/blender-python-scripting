@@ -345,7 +345,10 @@ def create_base_curve():
         curves_number=4,
         edit_mode=False,
     )
-    return active_object()
+    base_curve = active_object()
+    material = create_metal_material()
+    apply_material(material)
+    return base_curve
 
 
 def create_profile_curve():
@@ -368,8 +371,7 @@ def create_centerpiece(context):
     profile_curve = create_profile_curve()
     base_curve.data.bevel_mode = "OBJECT"
     base_curve.data.bevel_object = profile_curve
-    bpy.ops.object.modifier_add(type='SOLIDIFY')
-
+    bpy.ops.object.modifier_add(type="SOLIDIFY")
 
 
 def main():
